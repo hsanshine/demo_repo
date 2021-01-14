@@ -6,5 +6,5 @@ made edit
 
 ## subheader
 
-watch turtorial on youtube
+learned to edit files locally on on my machine
 
